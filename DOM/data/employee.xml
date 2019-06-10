@@ -1,14 +1,16 @@
-<Employees>
-    <Employee>
-        <name>Pankaj</name>
-        <age>29</age>
-        <role>Java Developer</role>
+<clasess>
+    <class name="resources.Employee">
+        <name>Slava</name>
+        <age>28</age>
         <gender>Male</gender>
-    </Employee>
-    <Employee>
-        <name>Lisa</name>
-        <age>35</age>
-        <role>CSS Developer</role>
-        <gender>Female</gender>
-    </Employee>
-</Employees>
+        <role>Java Developer</role>
+    </class>
+    <class name="resources.Employee">
+        <name>Olya</name>
+        <age>33</age>
+        <gender>Shemale</gender>
+        <role>PHP Developer</role>
+    </class>
+
+</clasess>
+
